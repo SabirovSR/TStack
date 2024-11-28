@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Savik\source\repos\3 semestr\ACD\Git\Laba3-Stack\Stack\Stack\TStack.h(256,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Savik\source\repos\3 semestr\ACD\Git\Laba3-Stack\Stack\Stack\TStack.h(376,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Savik\source\repos\3 semestr\ACD\Git\Laba3-Stack\Stack\Stack\main.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Stack.vcxproj -> C:\Users\Savik\source\repos\3 semestr\ACD\Git\Laba3-Stack\Stack\x64\Debug\Stack.exe
